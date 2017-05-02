@@ -1,8 +1,9 @@
 package introduction;
 
 /**
- * Class that prints three messages to the console: `Welcome to Java`, `Welcome to Computer Science`, and
+ * 1.1. Class that prints three messages to the console: `Welcome to Java`, `Welcome to Computer Science`, and
  * `Programming is fun`.
+ *
  * @author Roman.
  */
 public final class DisplayThreeMessages {
